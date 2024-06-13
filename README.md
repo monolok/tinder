@@ -1,3 +1,9 @@
+# Tinder Speed Dating Analysis Project
+
+Tinder is an online dating app that uses a "swipe" feature for matching. This project analyzes data from speed dating events to understand factors influencing mutual interest. The dataset includes participant ratings on various attributes and questionnaire responses. Deliverables include descriptive stats, visualizations, and insights.
+
+# Questions answered:
+
 ## What the opposite sex say it looks for the most in a potential date
 ## Impact of match expectation VS reality
 ## What partners think of themselves VS reality
